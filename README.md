@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Denisse 👋
 
-<!--
-**Dsuarezj/Dsuarezj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Product engineer based in Barcelona. I build web apps, backend
+services and automations, with a focus on useful experiences
+and maintainable software.
 
-Here are some ideas to get you started:
+## What I do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Turn ideas into working products, from UI to backend integrations.
+- Build content-driven websites and progressive web apps.
+- Automate repetitive workflows and improve developer tooling.
+- Use automated testing to support reliable development.
+- Share what I learn through practical examples and workshops.
+
+## Main tech stack
+
+- **Frontend:** React, TypeScript, JavaScript, Astro
+- **Backend:** Java, Kotlin
+- **Content platforms:** Storyblok
+- **Testing:** Playwright, Vitest, JUnit
+- **Web capabilities:** PWAs, offline experiences, API integrations
